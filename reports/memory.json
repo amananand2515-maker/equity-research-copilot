@@ -1,0 +1,338 @@
+{
+  "TCS.NS": {
+    "history": [
+      {
+        "date": "2026-11-21",
+        "score": 57.6,
+        "signal": "NEUTRAL",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": NaN,
+        "rsi": NaN,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      }
+    ]
+  },
+  "INFY.NS": {
+    "history": [
+      {
+        "date": "2026-11-21",
+        "score": 57.6,
+        "signal": "NEUTRAL",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": NaN,
+        "rsi": NaN,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      }
+    ]
+  },
+  "TMPV.NS": {
+    "history": [
+      {
+        "date": "2026-11-21",
+        "score": 53.9,
+        "signal": "NEUTRAL",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": NaN,
+        "rsi": NaN,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      }
+    ]
+  },
+  "SETFGOLD.NS": {
+    "history": [
+      {
+        "date": "2026-11-21",
+        "score": 52.8,
+        "signal": "NEUTRAL",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": 120.02,
+        "rsi": 28.1,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      }
+    ]
+  },
+  "IRFC.NS": {
+    "history": [
+      {
+        "date": "2026-11-21",
+        "score": 52.3,
+        "signal": "NEUTRAL",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": NaN,
+        "rsi": NaN,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      }
+    ]
+  },
+  "HINDUNILVR.NS": {
+    "history": [
+      {
+        "date": "2026-11-21",
+        "score": 51.5,
+        "signal": "NEUTRAL",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": NaN,
+        "rsi": NaN,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      }
+    ]
+  },
+  "MARUTI.NS": {
+    "history": [
+      {
+        "date": "2026-11-21",
+        "score": 50.5,
+        "signal": "NEUTRAL",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": NaN,
+        "rsi": NaN,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      }
+    ]
+  },
+  "HDFCBANK.NS": {
+    "history": [
+      {
+        "date": "2026-11-21",
+        "score": 50.5,
+        "signal": "NEUTRAL",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": NaN,
+        "rsi": NaN,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      }
+    ]
+  },
+  "GOLDBEES.NS": {
+    "history": [
+      {
+        "date": "2026-11-21",
+        "score": 50.2,
+        "signal": "NEUTRAL",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": NaN,
+        "rsi": NaN,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      }
+    ]
+  },
+  "DIVISLAB.NS": {
+    "history": [
+      {
+        "date": "2026-11-21",
+        "score": 50.0,
+        "signal": "NEUTRAL",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": NaN,
+        "rsi": NaN,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      }
+    ]
+  },
+  "BPCL.NS": {
+    "history": [
+      {
+        "date": "2026-11-21",
+        "score": 50.0,
+        "signal": "NEUTRAL",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": NaN,
+        "rsi": NaN,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      }
+    ]
+  },
+  "IOC.NS": {
+    "history": [
+      {
+        "date": "2026-11-21",
+        "score": 50.0,
+        "signal": "NEUTRAL",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": NaN,
+        "rsi": NaN,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      }
+    ]
+  },
+  "APOLLOHOSP.NS": {
+    "history": [
+      {
+        "date": "2026-11-21",
+        "score": 49.0,
+        "signal": "NEUTRAL",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": NaN,
+        "rsi": NaN,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      }
+    ]
+  },
+  "RAJESHEXPO.NS": {
+    "history": [
+      {
+        "date": "2026-11-21",
+        "score": 48.9,
+        "signal": "NEUTRAL",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": NaN,
+        "rsi": NaN,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      }
+    ]
+  },
+  "RELIANCE.NS": {
+    "history": [
+      {
+        "date": "2026-11-21",
+        "score": 48.5,
+        "signal": "NEUTRAL",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": NaN,
+        "rsi": NaN,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      }
+    ]
+  },
+  "NCC.NS": {
+    "history": [
+      {
+        "date": "2026-11-21",
+        "score": 48.5,
+        "signal": "NEUTRAL",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": NaN,
+        "rsi": NaN,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      }
+    ]
+  },
+  "TATACAP.NS": {
+    "history": [
+      {
+        "date": "2026-11-21",
+        "score": 48.5,
+        "signal": "NEUTRAL",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": NaN,
+        "rsi": NaN,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      }
+    ]
+  },
+  "ICICIBANK.NS": {
+    "history": [
+      {
+        "date": "2026-11-21",
+        "score": 47.0,
+        "signal": "NEUTRAL",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": NaN,
+        "rsi": NaN,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      }
+    ]
+  },
+  "ADANIENT.NS": {
+    "history": [
+      {
+        "date": "2026-11-21",
+        "score": 47.0,
+        "signal": "NEUTRAL",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": NaN,
+        "rsi": NaN,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      }
+    ]
+  },
+  "LTFOODS.NS": {
+    "history": [
+      {
+        "date": "2026-11-21",
+        "score": 47.0,
+        "signal": "NEUTRAL",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": NaN,
+        "rsi": NaN,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      }
+    ]
+  },
+  "GAIL.NS": {
+    "history": [
+      {
+        "date": "2026-11-21",
+        "score": 46.3,
+        "signal": "NEUTRAL",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": NaN,
+        "rsi": NaN,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      }
+    ]
+  },
+  "JIOFIN.NS": {
+    "history": [
+      {
+        "date": "2026-11-21",
+        "score": 44.8,
+        "signal": "NEUTRAL",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": NaN,
+        "rsi": NaN,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      }
+    ]
+  },
+  "MHRIL.NS": {
+    "history": [
+      {
+        "date": "2026-11-21",
+        "score": 42.1,
+        "signal": "NEUTRAL",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": NaN,
+        "rsi": NaN,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      }
+    ]
+  },
+  "DMART.NS": {
+    "history": [
+      {
+        "date": "2026-11-21",
+        "score": 42.1,
+        "signal": "NEUTRAL",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": NaN,
+        "rsi": NaN,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      }
+    ]
+  }
+}
